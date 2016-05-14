@@ -19,9 +19,10 @@ First we must create the appropriate IFTTT channel.  Then we must deploy the web
 1. Call the event `trello_card_created`
 ![Image of choosing event name](images/chooseEventName.png)
 
-1. Click on `that` and select the Trello channel
+1. Click on `that`
 ![Image of ifMakerThenThat](images/ifMakerThenThat.png)
 
+1. Select the Trello channel
 ![Image of trello channel](images/chooseTrelloChannel.png)
 
 1. Choose the action `Create a card`
